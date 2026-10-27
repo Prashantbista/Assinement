@@ -1,0 +1,33 @@
+#topbar{
+    background-color: #082a4a; 
+}
+#hero{
+    background-image: url(cover.jpg);
+    background-position: center;;
+    padding-top: 235px;
+    padding-bottom: 254px;
+}
+#col1{
+ background: linear-gradient(to right, #5A154A, #922278);
+}
+#col2{
+ background: linear-gradient(to right, #A13172, #C33E8B);
+}
+#col3{
+ background: linear-gradient(to right, #C33E8B, #E95038);
+}
+#col4{
+ background: linear-gradient(to right, #F28A19, #F9B107);
+}
+#col5{
+ background: linear-gradient(to right, #77AC43, #94CA5F);
+}
+#col6{
+ background: linear-gradient(to right, #235683, #048FA3);
+}
+#col7{
+ background: linear-gradient(to right, #48B2BC, #95D0D3);
+}
+#col8{
+ background: linear-gradient(to right, #279A96, #2EAEA9);
+}
